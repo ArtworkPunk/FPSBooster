@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/67797794/176434221-28be11cd-8106-4836-8421-71d9b2c9d0f8.png)
+![FPS](https://user-images.githubusercontent.com/67797794/180403973-969e951d-9201-4d39-9a67-a3dc1c26589a.png)
 
 C# Program to change windows settings and unlock processor cores or lock them! 🔐
 _________________________________________________________________________________
